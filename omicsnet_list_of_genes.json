@@ -1,0 +1,665 @@
+{
+ "nodes": [
+ {
+ "id": "6354",
+"idx": 1,
+"label": "CCL7",
+"displayedLabel": "CCL7",
+"size":       32,
+"size2d":       12,
+"type": "protein",
+"molType": "protein",
+"types": "protein",
+"seedArr": "seed",
+"color": "#FF8484",
+"colorb": "#FF8484",
+"colorw": "#FF8484",
+"topocolb": "#FF8484",
+"topocolw": "#FF8484",
+"expcolb": "#BD0313",
+"expcolw": "#96000D",
+"x2d": -0.2812434,
+"y2d": -0.0641488,
+"user": {
+ "closeness": 0.05882353,
+"eigen":        1 
+},
+"attributes": {
+ "degree":       15,
+"between":      119,
+"expr":    21.04,
+"closeness": 0.05882353,
+"eigen":        1 
+} 
+},
+{
+ "id": "6369",
+"idx": 2,
+"label": "CCL24",
+"displayedLabel": "CCL24",
+"size":       23,
+"size2d":        6,
+"type": "protein",
+"molType": "protein",
+"types": "protein",
+"seedArr": "seed",
+"color": "#FF8484",
+"colorb": "#FF8484",
+"colorw": "#FF8484",
+"topocolb": "#FF8484",
+"topocolw": "#FF8484",
+"expcolb": "#C30919",
+"expcolw": "#9D000E",
+"x2d": -1.603767,
+"y2d": -3.247352,
+"user": {
+ "closeness": 0.02222222,
+"eigen": 0.07106781 
+},
+"attributes": {
+ "degree":        1,
+"between":        0,
+"expr":    19.76,
+"closeness": 0.02222222,
+"eigen": 0.07106781 
+} 
+},
+{
+ "id": "1499",
+"idx": 3,
+"label": "CTNNB1",
+"displayedLabel": "CTNNB1",
+"size":       23,
+"size2d":        6,
+"type": "protein",
+"molType": "protein",
+"types": "protein",
+"seedArr": "notSeed",
+"color": "#FF8484",
+"colorb": "#FF8484",
+"colorw": "#FF8484",
+"topocolb": "#FF8484",
+"topocolw": "#FF8484",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"x2d": 1.302185,
+"y2d": 0.8041083,
+"user": {
+ "closeness":  0.03125,
+"eigen": 0.2575894 
+},
+"attributes": {
+ "degree":        1,
+"between":        0,
+"expr":        0,
+"closeness":  0.03125,
+"eigen": 0.2575894 
+} 
+},
+{
+ "id": "166",
+"idx": 4,
+"label": "TLE5",
+"displayedLabel": "TLE5",
+"size":       23,
+"size2d":        6,
+"type": "protein",
+"molType": "protein",
+"types": "protein",
+"seedArr": "notSeed",
+"color": "#FF8484",
+"colorb": "#FF8484",
+"colorw": "#FF8484",
+"topocolb": "#FF8484",
+"topocolw": "#FF8484",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"x2d": 0.6743673,
+"y2d": 1.311157,
+"user": {
+ "closeness":  0.03125,
+"eigen": 0.2575894 
+},
+"attributes": {
+ "degree":        1,
+"between":        0,
+"expr":        0,
+"closeness":  0.03125,
+"eigen": 0.2575894 
+} 
+},
+{
+ "id": "4313",
+"idx": 5,
+"label": "MMP2",
+"displayedLabel": "MMP2",
+"size":       23,
+"size2d":        6,
+"type": "protein",
+"molType": "protein",
+"types": "protein",
+"seedArr": "notSeed",
+"color": "#FF8484",
+"colorb": "#FF8484",
+"colorw": "#FF8484",
+"topocolb": "#FF8484",
+"topocolw": "#FF8484",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"x2d": 0.01249029,
+"y2d": 1.587318,
+"user": {
+ "closeness":  0.03125,
+"eigen": 0.2575894 
+},
+"attributes": {
+ "degree":        1,
+"between":        0,
+"expr":        0,
+"closeness":  0.03125,
+"eigen": 0.2575894 
+} 
+},
+{
+ "id": "1994",
+"idx": 6,
+"label": "ELAVL1",
+"displayedLabel": "ELAVL1",
+"size":       23,
+"size2d":        6,
+"type": "protein",
+"molType": "protein",
+"types": "protein",
+"seedArr": "notSeed",
+"color": "#FF8484",
+"colorb": "#FF8484",
+"colorw": "#FF8484",
+"topocolb": "#FF8484",
+"topocolw": "#FF8484",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"x2d": -0.7927729,
+"y2d": 1.668404,
+"user": {
+ "closeness":  0.03125,
+"eigen": 0.2575894 
+},
+"attributes": {
+ "degree":        1,
+"between":        0,
+"expr":        0,
+"closeness":  0.03125,
+"eigen": 0.2575894 
+} 
+},
+{
+ "id": "1230",
+"idx": 7,
+"label": "CCR1",
+"displayedLabel": "CCR1",
+"size":       23,
+"size2d":        6,
+"type": "protein",
+"molType": "protein",
+"types": "protein",
+"seedArr": "notSeed",
+"color": "#FF8484",
+"colorb": "#FF8484",
+"colorw": "#FF8484",
+"topocolb": "#FF8484",
+"topocolw": "#FF8484",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"x2d": -1.040854,
+"y2d": 0.9604748,
+"user": {
+ "closeness":  0.03125,
+"eigen": 0.2575894 
+},
+"attributes": {
+ "degree":        1,
+"between":        0,
+"expr":        0,
+"closeness":  0.03125,
+"eigen": 0.2575894 
+} 
+},
+{
+ "id": "1234",
+"idx": 8,
+"label": "CCR5",
+"displayedLabel": "CCR5",
+"size":       23,
+"size2d":        6,
+"type": "protein",
+"molType": "protein",
+"types": "protein",
+"seedArr": "notSeed",
+"color": "#FF8484",
+"colorb": "#FF8484",
+"colorw": "#FF8484",
+"topocolb": "#FF8484",
+"topocolw": "#FF8484",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"x2d": -1.790565,
+"y2d": 0.9596241,
+"user": {
+ "closeness":  0.03125,
+"eigen": 0.2575894 
+},
+"attributes": {
+ "degree":        1,
+"between":        0,
+"expr":        0,
+"closeness":  0.03125,
+"eigen": 0.2575894 
+} 
+},
+{
+ "id": "1232",
+"idx": 9,
+"label": "CCR3",
+"displayedLabel": "CCR3",
+"size": 25.74567,
+"size2d": 7.830445,
+"type": "protein",
+"molType": "protein",
+"types": "protein",
+"seedArr": "notSeed",
+"color": "#FF8484",
+"colorb": "#FF8484",
+"colorw": "#FF8484",
+"topocolb": "#FF8484",
+"topocolw": "#FF8484",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"x2d": -1.007002,
+"y2d": -1.813476,
+"user": {
+ "closeness": 0.03333333,
+"eigen": 0.2758957 
+},
+"attributes": {
+ "degree":        2,
+"between":       15,
+"expr":        0,
+"closeness": 0.03333333,
+"eigen": 0.2758957 
+} 
+},
+{
+ "id": "1238",
+"idx": 10,
+"label": "ACKR2",
+"displayedLabel": "ACKR2",
+"size":       23,
+"size2d":        6,
+"type": "protein",
+"molType": "protein",
+"types": "protein",
+"seedArr": "notSeed",
+"color": "#FF8484",
+"colorb": "#FF8484",
+"colorw": "#FF8484",
+"topocolb": "#FF8484",
+"topocolw": "#FF8484",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"x2d": 0.9880712,
+"y2d": 0.1257601,
+"user": {
+ "closeness":  0.03125,
+"eigen": 0.2575894 
+},
+"attributes": {
+ "degree":        1,
+"between":        0,
+"expr":        0,
+"closeness":  0.03125,
+"eigen": 0.2575894 
+} 
+},
+{
+ "id": "729230",
+"idx": 11,
+"label": "CCR2",
+"displayedLabel": "CCR2",
+"size":       23,
+"size2d":        6,
+"type": "protein",
+"molType": "protein",
+"types": "protein",
+"seedArr": "notSeed",
+"color": "#FF8484",
+"colorb": "#FF8484",
+"colorw": "#FF8484",
+"topocolb": "#FF8484",
+"topocolw": "#FF8484",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"x2d": -1.949163,
+"y2d": 0.1702186,
+"user": {
+ "closeness":  0.03125,
+"eigen": 0.2575894 
+},
+"attributes": {
+ "degree":        1,
+"between":        0,
+"expr":        0,
+"closeness":  0.03125,
+"eigen": 0.2575894 
+} 
+},
+{
+ "id": "2908",
+"idx": 12,
+"label": "NR3C1",
+"displayedLabel": "NR3C1",
+"size":       23,
+"size2d":        6,
+"type": "protein",
+"molType": "protein",
+"types": "protein",
+"seedArr": "notSeed",
+"color": "#FF8484",
+"colorb": "#FF8484",
+"colorw": "#FF8484",
+"topocolb": "#FF8484",
+"topocolw": "#FF8484",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"x2d": -1.957723,
+"y2d": -0.5794456,
+"user": {
+ "closeness":  0.03125,
+"eigen": 0.2575894 
+},
+"attributes": {
+ "degree":        1,
+"between":        0,
+"expr":        0,
+"closeness":  0.03125,
+"eigen": 0.2575894 
+} 
+},
+{
+ "id": "604",
+"idx": 13,
+"label": "BCL6",
+"displayedLabel": "BCL6",
+"size":       23,
+"size2d":        6,
+"type": "protein",
+"molType": "protein",
+"types": "protein",
+"seedArr": "notSeed",
+"color": "#FF8484",
+"colorb": "#FF8484",
+"colorw": "#FF8484",
+"topocolb": "#FF8484",
+"topocolw": "#FF8484",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"x2d": -0.1827053,
+"y2d": -1.441853,
+"user": {
+ "closeness":  0.03125,
+"eigen": 0.2575894 
+},
+"attributes": {
+ "degree":        1,
+"between":        0,
+"expr":        0,
+"closeness":  0.03125,
+"eigen": 0.2575894 
+} 
+},
+{
+ "id": "6778",
+"idx": 14,
+"label": "STAT6",
+"displayedLabel": "STAT6",
+"size":       23,
+"size2d":        6,
+"type": "protein",
+"molType": "protein",
+"types": "protein",
+"seedArr": "notSeed",
+"color": "#FF8484",
+"colorb": "#FF8484",
+"colorw": "#FF8484",
+"topocolb": "#FF8484",
+"topocolw": "#FF8484",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"x2d": -1.325023,
+"y2d": -0.9685259,
+"user": {
+ "closeness":  0.03125,
+"eigen": 0.2575894 
+},
+"attributes": {
+ "degree":        1,
+"between":        0,
+"expr":        0,
+"closeness":  0.03125,
+"eigen": 0.2575894 
+} 
+},
+{
+ "id": "2833",
+"idx": 15,
+"label": "CXCR3",
+"displayedLabel": "CXCR3",
+"size":       23,
+"size2d":        6,
+"type": "protein",
+"molType": "protein",
+"types": "protein",
+"seedArr": "notSeed",
+"color": "#FF8484",
+"colorb": "#FF8484",
+"colorw": "#FF8484",
+"topocolb": "#FF8484",
+"topocolw": "#FF8484",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"x2d": 0.5393487,
+"y2d": -1.614457,
+"user": {
+ "closeness":  0.03125,
+"eigen": 0.2575894 
+},
+"attributes": {
+ "degree":        1,
+"between":        0,
+"expr":        0,
+"closeness":  0.03125,
+"eigen": 0.2575894 
+} 
+},
+{
+ "id": "9638",
+"idx": 16,
+"label": "FEZ1",
+"displayedLabel": "FEZ1",
+"size":       23,
+"size2d":        6,
+"type": "protein",
+"molType": "protein",
+"types": "protein",
+"seedArr": "notSeed",
+"color": "#FF8484",
+"colorb": "#FF8484",
+"colorw": "#FF8484",
+"topocolb": "#FF8484",
+"topocolw": "#FF8484",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"x2d": 1.060563,
+"y2d": -1.076671,
+"user": {
+ "closeness":  0.03125,
+"eigen": 0.2575894 
+},
+"attributes": {
+ "degree":        1,
+"between":        0,
+"expr":        0,
+"closeness":  0.03125,
+"eigen": 0.2575894 
+} 
+},
+{
+ "id": "51554",
+"idx": 17,
+"label": "ACKR4",
+"displayedLabel": "ACKR4",
+"size":       23,
+"size2d":        6,
+"type": "protein",
+"molType": "protein",
+"types": "protein",
+"seedArr": "notSeed",
+"color": "#FF8484",
+"colorb": "#FF8484",
+"colorw": "#FF8484",
+"topocolb": "#FF8484",
+"topocolw": "#FF8484",
+"expcolb": "#d3d3d3",
+"expcolw": "#c6c6c6",
+"x2d": 1.508537,
+"y2d": -0.4104521,
+"user": {
+ "closeness":  0.03125,
+"eigen": 0.2575894 
+},
+"attributes": {
+ "degree":        1,
+"between":        0,
+"expr":        0,
+"closeness":  0.03125,
+"eigen": 0.2575894 
+} 
+} 
+],
+"typeVec": [        1,        1,        1,        1,        1 ],
+"edges": [ {
+ "id": "1",
+"source": "6354",
+"target": "1499",
+"color": "target" 
+},
+{
+ "id": "2",
+"source": "6354",
+"target": "166",
+"color": "target" 
+},
+{
+ "id": "3",
+"source": "6354",
+"target": "4313",
+"color": "target" 
+},
+{
+ "id": "4",
+"source": "6354",
+"target": "1994",
+"color": "target" 
+},
+{
+ "id": "5",
+"source": "6354",
+"target": "1230",
+"color": "target" 
+},
+{
+ "id": "6",
+"source": "6354",
+"target": "1234",
+"color": "target" 
+},
+{
+ "id": "7",
+"source": "6354",
+"target": "1232",
+"color": "target" 
+},
+{
+ "id": "8",
+"source": "6354",
+"target": "1238",
+"color": "target" 
+},
+{
+ "id": "9",
+"source": "6354",
+"target": "729230",
+"color": "target" 
+},
+{
+ "id": "10",
+"source": "6354",
+"target": "2908",
+"color": "target" 
+},
+{
+ "id": "11",
+"source": "6354",
+"target": "604",
+"color": "target" 
+},
+{
+ "id": "12",
+"source": "6354",
+"target": "6778",
+"color": "target" 
+},
+{
+ "id": "13",
+"source": "6354",
+"target": "2833",
+"color": "target" 
+},
+{
+ "id": "14",
+"source": "6354",
+"target": "9638",
+"color": "target" 
+},
+{
+ "id": "15",
+"source": "6354",
+"target": "51554",
+"color": "target" 
+},
+{
+ "id": "16",
+"source": "6369",
+"target": "1232",
+"color": "target" 
+} ],
+"modules": "NA",
+"prot.nms": null,
+"gene.nms": [ "4495", "4496", "4499", "6354", "6369" ],
+"containsGP": false,
+"middleLayerType": "protein",
+"metMic": {},
+"metMicScore": {},
+"metMicTable": [],
+"micThresh":      0.8,
+"colorVec": {
+ "gene": "#FF8484",
+"protein": "#FF8484",
+"tf": "#39FF14",
+"mir": "#00f6ff",
+"peak": "#D3D3D3",
+"kncmpd": "#00ffff",
+"met": "#ffff00",
+"reg": "#4B0082",
+"mic": "#39FF14" 
+} 
+}
